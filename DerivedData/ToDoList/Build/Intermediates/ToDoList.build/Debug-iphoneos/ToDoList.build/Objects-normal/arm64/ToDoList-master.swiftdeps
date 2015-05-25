@@ -1,0 +1,7 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.49.6 clang-602.0.49)"
+options: "4cd17b45bbc5fa0f3883c2eebaae0eb8"
+inputs: 
+- "/Users/Sean/src/ToDoList/ToDoList/SecondViewController.swift"
+- "/Users/Sean/src/ToDoList/ToDoList/TaskManager.swift"
+- "/Users/Sean/src/ToDoList/ToDoList/ViewController.swift"
+- "/Users/Sean/src/ToDoList/ToDoList/AppDelegate.swift"

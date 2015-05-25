@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.49.6 clang-602.0.49)"
+options: "12ef07e9806e48b3e573d8d5978ffa87"
+inputs: 
+- "/Users/Sean/src/ToDoList/ToDoListTests/ToDoListTests.swift"
